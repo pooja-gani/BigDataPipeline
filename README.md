@@ -6,6 +6,7 @@ In this project I have emulated a microservice using a python script which sends
 to a Producer Api, the messages are then written to a data streaming platform called kafka and later the
 consumer Api writes the messages to a clickhouse database.
 
+<img width="1132" height="805" alt="Screenshot 2025-10-01 at 8 36 42 PM" src="https://github.com/user-attachments/assets/33e05d01-2b68-43ac-992a-803ce9082c57" />
 
 
 ## Tech Stack
